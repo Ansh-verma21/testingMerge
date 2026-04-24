@@ -10,7 +10,7 @@ public class Controller {
         System.out.println("Hello from Auri");
     }
     public void method2() {
-        System.out.println("2nd Hello from Auri");
+        System.out.println("Hello from Ansh");
     }
 
 
