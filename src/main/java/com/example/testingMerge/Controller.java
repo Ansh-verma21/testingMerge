@@ -6,12 +6,7 @@ public class Controller {
 		System.out.println("Hello World");
 	}
 
-    public void method1() {
-        System.out.println("Hello from Auri");
-    }
-    public void method1() {
-        System.out.println("Hello from Auri");
-    }
+    System.out.println("Hello from ansh");
 
 
 
