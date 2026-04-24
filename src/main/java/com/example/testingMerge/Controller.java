@@ -9,5 +9,10 @@ public class Controller {
     public void method1() {
         System.out.println("Hello from Auri");
     }
+    public void method1() {
+        System.out.println("Hello from Auri");
+    }
+
+
 
 }
